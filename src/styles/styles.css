@@ -1,0 +1,19 @@
+.App {
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.input {
+    outline: none;
+    padding: 5px;
+}
+
+.btn {
+    padding: 5px;
+    margin-left: 10px;
+}
